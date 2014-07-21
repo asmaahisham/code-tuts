@@ -1,4 +1,9 @@
 int x=2, y=3;
 int z;
+int r;
+
 z= x+y;
+r= x-y;
+//results
 cout<<z;
+cout<<r;
